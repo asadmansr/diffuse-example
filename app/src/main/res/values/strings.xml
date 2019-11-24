@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Diffuse Example</string>
+    <string name="btn_message">Click to Log</string>
 </resources>
